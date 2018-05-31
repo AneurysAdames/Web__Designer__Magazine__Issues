@@ -1,2 +1,1 @@
-# Web__Designer__Magazine__Issues
-Web__Designer__Magazine__Issues
+# Web Designer Magazine Issues
